@@ -1,0 +1,4 @@
+﻿name,cooler-a,cooler-b,cooler-c
+a,TRUE,FALSE,FALSE
+b,FALSE,TRUE,FALSE
+c,FALSE,FALSE,TRUE
