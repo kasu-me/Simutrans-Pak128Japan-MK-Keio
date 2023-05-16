@@ -42,6 +42,11 @@ pakファイルがアドオンです。お使いのSimutransの「pak128.Japan�
 
 拙作のソフトウェア「[Ahozura Makeobj Controller Lite](https://ahozura.kasu.me/portal/?p=1045)」ver1.1.1以降で利用可能なプロジェクトファイルです。ahpファイルを「Ahozura Makeobj Controller Lite」に関連付けることで、ワンクリックで簡単にpak作成を行うことが可能です。
 
+## csvファイルについて
+
+今回は初めての試みとして、5000系･6000系についてPhotoshopのデータセット機能を使用した画像生成を行っています。
+
+csvファイルに作りたいバリエーションを記述したうえでPhotoshopのデータセットとして読み込ませ、「書き出し」→「データセットからファイル」を選択すると、csvファイルに記述した全てのバリエーションを一括で画像に出力することができます。
 
 ## 謝辞
 - 6000系ならびに8000系の冷房装置の一部について、[htrkdk様の京王7000系](https://sites.google.com/site/htrsimu/home/trains?authuser=0#h.p_ID_170)のものを流用させていただいております。
