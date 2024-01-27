@@ -131,6 +131,8 @@ mk_keio_M6000_typeB_oldcolor
 京王電鉄6000系 デハ6000形(旧塗装)(集中冷房･旧)
 mk_keio_M6050_typeB_oldcolor
 京王電鉄6000系 デハ6050形(旧塗装)(集中冷房･旧)
+mk_keio_M6150_typeB_oldcolor
+京王電鉄6000系 デハ6050形(6150番台)(旧塗装)(集中冷房･旧)
 mk_keio_T6550_typeB_oldcolor
 京王電鉄6000系 サハ6550形(旧塗装)(集中冷房･旧)
 mk_keio_Mc6400_typeB_oldcolor
@@ -147,6 +149,8 @@ mk_keio_M6000_typeC_oldcolor
 京王電鉄6000系 デハ6000形(旧塗装)(集中冷房･新)
 mk_keio_M6050_typeC_oldcolor
 京王電鉄6000系 デハ6050形(旧塗装)(集中冷房･新)
+mk_keio_M6150_typeC_oldcolor
+京王電鉄6000系 デハ6050形(6150番台)(旧塗装)(集中冷房･新)
 mk_keio_T6550_typeC_oldcolor
 京王電鉄6000系 サハ6550形(旧塗装)(集中冷房･新)
 mk_keio_Mc6400_typeC_oldcolor
@@ -167,6 +171,8 @@ mk_keio_M6000_typeB_newcolor
 京王電鉄6000系 デハ6000形(新塗装)(集中冷房･旧)
 mk_keio_M6050_typeB_newcolor
 京王電鉄6000系 デハ6050形(新塗装)(集中冷房･旧)
+mk_keio_M6150_typeB_newcolor
+京王電鉄6000系 デハ6050形(6150番台)(新塗装)(集中冷房･旧)
 mk_keio_T6550_typeB_newcolor
 京王電鉄6000系 サハ6550形(新塗装)(集中冷房･旧)
 mk_keio_Mc6400_typeB_newcolor
@@ -183,6 +189,8 @@ mk_keio_M6000_typeC_newcolor
 京王電鉄6000系 デハ6000形(新塗装)(集中冷房･新)
 mk_keio_M6050_typeC_newcolor
 京王電鉄6000系 デハ6050形(新塗装)(集中冷房･新)
+mk_keio_M6150_typeC_newcolor
+京王電鉄6000系 デハ6050形(6150番台)(新塗装)(集中冷房･新)
 mk_keio_T6550_typeC_newcolor
 京王電鉄6000系 サハ6550形(新塗装)(集中冷房･新)
 mk_keio_Mc6400_typeC_newcolor
