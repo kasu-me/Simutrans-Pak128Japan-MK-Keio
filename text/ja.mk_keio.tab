@@ -109,6 +109,8 @@ mk_keio_Tc5700_typeB
 京王電鉄5000系 クハ5700形(分散冷房4基)
 mk_keio_Tc5750_typeB
 京王電鉄5000系 クハ5750形(分散冷房4基)
+mk_keio_Tc5700_typeC
+京王電鉄5000系 クハ5700形(集中冷房)
 mk_keio_Tc5750_typeC
 京王電鉄5000系 クハ5750形(集中冷房)
 mk_keio_Mc5100_typeC
